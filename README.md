@@ -20,6 +20,6 @@ To run this application
 ```
 
 
- ![Screenshot (1218)](https://user-images.githubusercontent.com/65703105/137575438-0811b14c-92d9-4afd-8771-998f3ecc4b33.png)
+![Screenshot (1221)](https://user-images.githubusercontent.com/65703105/137575485-221d6cb0-f2a4-470d-9ab5-9e2114ca22e4.png)
 
-![Screenshot (1219)](https://user-images.githubusercontent.com/65703105/137575441-c43ef0f4-c0f3-49e6-bcd5-493aa75e4471.png)
+![Screenshot (1220)](https://user-images.githubusercontent.com/65703105/137575488-6add33f7-1564-4ecc-8b15-61333af854b9.png)
