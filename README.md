@@ -18,6 +18,7 @@ To run this application
   npm start
   
 ```
+## Screenshots
 
 ![ss-9](https://user-images.githubusercontent.com/65703105/137575612-1db283a4-505b-4bb2-916e-90d7c7d80303.PNG)
 
