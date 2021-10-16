@@ -19,7 +19,5 @@ To run this application
   
 ```
 
-
-![Screenshot (1221)](https://user-images.githubusercontent.com/65703105/137575485-221d6cb0-f2a4-470d-9ab5-9e2114ca22e4.png)
-
-![Screenshot (1220)](https://user-images.githubusercontent.com/65703105/137575488-6add33f7-1564-4ecc-8b15-61333af854b9.png)
+![Screenshot (1218)](https://user-images.githubusercontent.com/65703105/137575501-b1384dcf-c6e9-46c6-a9c4-dc96d99eaf46.png)
+![Screenshot (1219)](https://user-images.githubusercontent.com/65703105/137575502-1915a7f0-c425-4216-8f29-79a7429f1d09.png)
